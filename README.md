@@ -1,2 +1,2 @@
 # OPI_lab7
-#Anisin Aleksej FIT 3 ISAT
+#Anisin Aleksej Ivanovech FIT vrpo 3 ISAT
